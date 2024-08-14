@@ -1,16 +1,45 @@
-## Hi there 👋
+## Hi there, I'm Yagiz Emre OZBILGE 👋
 
-<!--
-**yagizemreozbilge/yagizemreozbilge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year Computer Engineering student passionate about technology and eager to learn and contribute to exciting projects.
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Yagiz Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagizemreozbilge&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagizemreozbilge&layout=compact&theme=radical)
+
+### 🛠️ Skills
+
+#### Programming Languages
+- Java
+- C++
+- C
+- C#
+- JavaScript
+
+#### Web Development
+- HTML
+- CSS
+
+
+
+#### Tools & Technologies
+- Git
+- VS Code
+- Visual Studio
+- CMake
+- .NET
+- Maven
+- 
+
+#### Operating Systems
+- Windows
+- Linux
+
+
+
+### 💬 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/yağız-emre-özbilge-b173b5282)
+- [GitHub](https://github.com/yagizemreozbilge)
+- [Email](mailto:yemre.ozbilge@gmail.com)
+MyWebSite = TechPath 
