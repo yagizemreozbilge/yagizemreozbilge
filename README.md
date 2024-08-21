@@ -15,12 +15,12 @@ I'm a second-year Computer Engineering student passionate about technology and e
 - C++
 - C
 - C#
-- JavaScript
+- Python
 
 #### Web Development
 - HTML
 - CSS
-
+- JavaScript
 
 
 #### Tools & Technologies
@@ -30,7 +30,7 @@ I'm a second-year Computer Engineering student passionate about technology and e
 - CMake
 - .NET
 - Maven
-- 
+- Flask
 
 #### Operating Systems
 - Windows
