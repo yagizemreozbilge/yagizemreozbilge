@@ -36,6 +36,11 @@ I'm a second-year Computer Engineering student passionate about technology and e
 - Windows
 - Linux
 
+  #### Fundemantal Information Technologies
+  Word
+  Excel
+  Powerpoint
+
 
 
 ### 💬 Let's Connect
