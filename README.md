@@ -5,8 +5,6 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagizemreozbilge&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
 <br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yagizemreozbilge&layout=compact&theme=radical&langs_count=8)
