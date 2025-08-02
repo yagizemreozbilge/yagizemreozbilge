@@ -3,9 +3,6 @@
 🎓 3rd year BSc Computer Engineering student passionate about building technology that makes a difference.  
 💡 Interested in backend development, system programming, and web technologies.
 
-
-
-
 ### 🛠️ Skills
 
 #### 💻 Programming Languages
