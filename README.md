@@ -3,15 +3,7 @@
 🎓 3rd year BSc Computer Engineering student passionate about building technology that makes a difference.  
 💡 Interested in backend development, system programming, and web technologies.
 
-### 📊 GitHub Stats
 
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yagizemreozbilge&layout=compact&theme=radical&langs_count=8)
-
-<br>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yagizemreozbilge&theme=radical)
 
 
 ### 🛠️ Skills
