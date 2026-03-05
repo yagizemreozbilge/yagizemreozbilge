@@ -1,5 +1,5 @@
 # 👨‍💻 Yağız Emre ÖZBİLGE
-### *Full-Stack Software Engineer & Computer Systems Researcher*
+### *Full-Stack Software Engineer & Systems Architecture Enthusiast*
 
 <p align="left">
   <img src="https://img.shields.io/badge/Education-3rd%20Year%20Comp.%20Eng.-blue?style=for-the-badge&logo=googlescholar&logoColor=white" />
@@ -10,7 +10,7 @@
 
 ### 📊 Git Insights
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yagizemreozbilge&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github.com/yagizemreozbilge/yagizemreozbilge/raw/main/stats-light.svg#gh-light-mode-only" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagizemreozbilge&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
 </p>
 
@@ -52,9 +52,10 @@
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | `C`, `C++`, `Java`, `Python`, `C#`, `JavaScript`, `SQL` |
+| **Languages** | `C`, `C++`, `C#`, `Java`, `Python`, `JavaScript`, `SQL` |
 | **Backend** | `Spring Boot`, `Flask`, `REST API`, `JWT`, `Maven` |
 | **Frontend** | `React`, `Vite`, `TypeScript`, `Tailwind CSS`, `Bootstrap` |
+| **Game Dev** | `Unity`, `Object-Oriented Design`, `Event-Driven Architecture` |
 | **DevOps & DB** | `Docker`, `Git`, `GitHub Actions`, `PostgreSQL`, `SQLite` |
 | **Systems** | `Linux (WSL/Ubuntu)`, `Windows`, `CMake`, `Shell Scripting` |
 
@@ -65,4 +66,3 @@
   <a href="https://www.linkedin.com/in/yağız-emre-özbilge-b173b5282" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:yemre.ozbilge@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
